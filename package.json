@@ -1,0 +1,9 @@
+{
+  "name": "apinofficial-gambar-to-qr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web Tools By ApinOfficial - Gambar to QR",
+  "engines": {
+    "node": ">=18"
+  }
+}
